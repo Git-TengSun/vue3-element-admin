@@ -16,7 +16,7 @@
 
 ### 项目截图
 
-<img src="https://github.com/X-Mars/vue3-element-admin/blob/main/images/home.png?raw=true" width="53%" height="53%">
+<img src="https://github.com/X-Mars/vue3-element-admin/blob/main/images/home.png?raw=true" width="80%" height="80%">
 
 ### 食用方法
 
