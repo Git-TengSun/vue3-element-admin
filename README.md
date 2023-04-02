@@ -10,6 +10,10 @@
 开发工具： Vsoce
 ```
 
+### todo
+1. 动态路由功能
+
+
 ### 加入我们
 
 <img src="https://github.com/X-Mars/vue3-element-admin/blob/main/images/qq.png?raw=true" width="25%" height="25%"><img src="https://github.com/X-Mars/vue3-element-admin/blob/main/images/wechat.png?raw=true" width="28%" height="28%">
